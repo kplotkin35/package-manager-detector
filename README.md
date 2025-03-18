@@ -1,3 +1,4 @@
+Detection#anomolies
 # package-manager-detector
 
 [![npm version][npm-version-src]][npm-version-href]
